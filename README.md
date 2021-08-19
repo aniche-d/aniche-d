@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aniche-d
-- 👀 I’m interested in data science and machine learning. I'm a  mathematics enthusiast and would love to learn more about this exciting field and become and expert one day!
+- 👀 I’m interested in data science and machine learning. I'm a  mathematics enthusiast and am deeply interested to learn more about these exciting fields which utilize mathematics and statistics to gain insights into the chaotic world around us. 
 - 🌱 I’m currently learning the basics of python and machine learning
 - 💞️ I’m looking to collaborate on any exciting projects which will enable me to learn more.
 - 📫 
